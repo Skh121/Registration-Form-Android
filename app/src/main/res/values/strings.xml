@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="emailLabel">Email Address</string>
+    <string name="email">Email</string>
+    <string name="passsword">Passsword</string>
+    <string name="password">password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+    <string-array name="fruitList">
+        <item>Apple</item>
+        <item>Orange</item>
+        <item>Banana</item>
+        <item>Grape</item>
+        <item>Strawberry</item>
+        <item>Watermelon</item>
+        <item>Pineapple</item>
+        <item>Mango</item>
+        <item>Cherry</item>
+        <item>Peach</item>
+        <item>Pear</item>
+        <item>Blueberry</item>
+        <item>Raspberry</item>
+        <item>Kiwi</item>
+        <item>Plum</item>
+    </string-array>
+</resources>
